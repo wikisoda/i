@@ -2,8 +2,9 @@
 /icon/*
 /spine/*
 /typeicons/*
-/pic/*
-/fairy/*
+#/pic/*
+#/fairy/*
 LICENSE.md
 README.md
 toLower.js
+.DS_Store
